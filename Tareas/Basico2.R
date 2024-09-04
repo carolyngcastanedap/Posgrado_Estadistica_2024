@@ -105,5 +105,5 @@ boxplot(prod$Kgsem ~ prod$Tiempo)
 # La diferencia no es significativa
 t.test(prod$Kgsem ~ prod$Tiempo, paired = T)
 
-# ver media
+# ver media 
 tapply(prod$Kgsem,prod$Tiempo, mean)
