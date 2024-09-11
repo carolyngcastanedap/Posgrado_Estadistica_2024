@@ -121,7 +121,7 @@ sd(H.media$Altura)
 mean(H.16$Altura)
 sd(H.16$Altura)
 
-#     Vecinos
+#     Vecinos 
 mean(conjunto$Vecinos)
 sd(conjunto$Vecinos)
 
@@ -134,7 +134,7 @@ mean(Vecinos4$Vecinos)
 sd(Vecinos4$Vecinos)
 
 #    Diametro
-mean(conjunto$Diametro)
+mean(conjunto$Diametro)f
 sd(conjunto$Diametro)
 
 #   DBH-media
@@ -142,5 +142,5 @@ mean(DBHmedia$Diametro)
 sd(DBHmedia$Diametro)
 
 #   DBH-16
-mean(DBHmedia$Diametro)
-sd(DBHmedia$Diametro)
+mean(DBH16$Diametro)
+sd(DBH16$Diametro)
