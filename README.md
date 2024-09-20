@@ -8,3 +8,4 @@ Material de recurso de posgrado de diseño experimental y análisis de datos
 + Semana4: 
 + Semana5: Boxplot
 + Semana6: Ejecisio ANOVA
++ Semana 7:Correlaciones
