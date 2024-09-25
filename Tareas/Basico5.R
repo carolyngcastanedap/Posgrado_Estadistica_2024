@@ -123,9 +123,9 @@ plot(erupciones$waiting,  erupciones$eruptions, pch= 19, col= "darkgreen",
      ylim = c(0.5,6),
      xlim = c(40,105))
 
-abline(edad.lm)
+abline(erupciones.lm)
 
-text(50,5, "y = -1.87 * 0.75 (x)")
+ text(50,5, "y = -1.87 * 0.75 (x)")
 
 
 #Ajustar tabla

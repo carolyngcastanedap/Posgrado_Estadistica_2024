@@ -96,7 +96,7 @@ boxplot(sitios$dapt ~ sitios$Paraje,
 #Sacar media
 mean(sitios$dapt^2)
 
-#Realizar analisis de variansas
+#Realizar analisis de variansas ANOVA
 sit.aov <- aov(sitios$dapt ~ sitios$Paraje)
 summary(sit.aov)
 

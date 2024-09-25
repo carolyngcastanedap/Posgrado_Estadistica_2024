@@ -6,7 +6,7 @@
 # 2. Abrir documentos de un lugar seguro
 # 3. Abrir archivo en excel
 # 4. Ayuda de una funcion
-# 5. Ver datos
+# 5. Ver datos-Ñ+Ñ+{-}
 # 6. Sacar media 
 # 7. Varianza
 # 8. Sacar desviación estandar
@@ -35,7 +35,7 @@
 # 25. Correlación
 # 26. Regresión lineal
 # 27. Ajustar tabla
-
+       SET
 
 # 1. Abrir un documento web
 prof_url <- "http://www.profepa.gob.mx/innovaportal/file/7635/1/accionesInspeccionfoanp.csv"
@@ -235,7 +235,7 @@ text(20, 120, "y = -8.4 * 2.4 (x)")
 #Correlación 0.79
 #Ver P para saber si es significativo, si es menor 0.001
 cor.test(edad$DAP, edad$EDAD)
-
+?cor.test
 
 # 25. Regresión lineal
 # y=alfa+ beta* X
