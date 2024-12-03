@@ -7,5 +7,6 @@ Material de recurso de posgrado de diseño experimental y análisis de datos
 + Semana3 : Proxima semana actualizar
 + Semana4: Clase de estadistica parametrics
 + Semana5: Boxplot
-+ Semana6: Ejecisio ANOVA
++ Semana6: Ejecicio ANOVA
 + Semana 7:Correlaciones
++ Examen
