@@ -11,3 +11,4 @@ Material de recurso de posgrado de diseño experimental y análisis de datos
 + Semana 7:Correlaciones
 + Examen
 
+![image](https://github.com/user-attachments/assets/1a71271f-8f71-46b3-99fb-5ba3e3d60ef6)
