@@ -10,3 +10,4 @@ Material de recurso de posgrado de diseño experimental y análisis de datos
 + Semana6: Ejecicio ANOVA
 + Semana 7:Correlaciones
 + Examen
+![image](https://github.com/user-attachments/assets/1277059c-46f4-459a-a305-ae6496af707b)
